@@ -1,2 +1,2 @@
-# nodejs-express-template
-Template for nodejs application
+# Quizer
+application for questions and answers
